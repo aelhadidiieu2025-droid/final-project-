@@ -1,6 +1,6 @@
 # Sif: Field Rover
 
-A class project: a website that explains how a farm robot called Field Rover.
+A class project: a website that explains how a farm robot called Field Rover works.
 
 ## What is on the page
 - **Opening:** the rover rolls in under an apple tree, its camera takes a soft photo, it bumps the trunk, and an apple rolls into the page. (Skip button included.)
